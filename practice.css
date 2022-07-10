@@ -1,0 +1,59 @@
+b{
+    color: white;
+}
+article{
+    text-align: center;
+    padding: 30px;
+}
+section{
+    padding: 34px;
+    float: left;
+    width: 150px;
+    height: 713px;
+    font-size: 27px;
+    background-image: url("pwbg.jpg");  
+}
+img{
+    border-radius: 70px;
+    padding: 15px;
+    width: 100px;
+    float: left;
+}
+P{
+    font-size: 25px;
+    color: blue;
+}
+article{
+    font-size: 27px;      
+    background-image: url("gyg.jpg");
+    border-radius: 40px;
+    color: white;
+}
+input{
+    text-align: center;
+    width: 80px;     
+}    
+main{
+    border-radius: 10px;
+}
+a{
+   padding-left: 120px;
+    text-align: right;
+    float: right;
+}
+body{
+    background-image: url("gap.jpg");
+    text-align: center;
+}
+source{
+    float: left;
+    
+}
+.em{
+    float: right;
+    color: aqua;
+    background-color: black;
+}
+nav{
+    color: black;
+}
